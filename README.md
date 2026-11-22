@@ -53,7 +53,7 @@ Services like Formspree collect form submissions on their servers and usually li
 | Login required for visitors | No |
 | Login required for form owner | Google account |
 
-#### Comparison: Sheet Forms vs Formspree
+#### Comparison: Form 82 vs Formspree
 
 | Feature | Form 82 | Formspree |
 |---|---|---|
@@ -73,7 +73,6 @@ Services like Formspree collect form submissions on their servers and usually li
 *Formspree limits and features change over time. Check their current pricing page before deciding.*
 
 #### Limitations
-
 - Google Sheets has a 10 million cell limit per spreadsheet. Very high volume needs a new sheet or a database.
 - Apps Script has daily quotas for execution and email sending.
 - No built-in spam filtering. Add a honeypot field or CAPTCHA if needed.
@@ -81,10 +80,12 @@ Services like Formspree collect form submissions on their servers and usually li
 - Changes to the script require a new deployment to update the URL.
 
 #### Contributing
-
 Pull requests and issues are welcome. Keep changes simple and focused.
 
 #### Contact
+If you want a cutom form, you can just fork the repo or contact me on [aryannagarco@gmail.com](mailto:aryannagarco@gmail.com)
 
-- Name: Aryan Nagar
-- Email: aryannagarco@gmail.com
+#### Images
+![1](https://i.ibb.co/RGrHkd0c/Screenshot-2026-11-22-202451.png)
+![2](https://i.ibb.co/rGBNJvcq/Screenshot-2026-11-22-202530.png)
+![3](https://i.ibb.co/4nLmTVk6/Screenshot-2026-11-22-202407.png)
