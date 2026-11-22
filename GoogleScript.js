@@ -41,5 +41,5 @@ function sendNotification(time, name, email, message) {
         "Email: " + email + "\n" +
         "Message:\n" + message;
 
-    MailApp.sendEmail(PUBLISHER_EMAIL, "New form submission", body);
+    MailApp.sendEmail(PUBLISHER_EMAIL, "Contact Form Submission", body);
 }

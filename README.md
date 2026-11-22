@@ -1,4 +1,4 @@
-# Sheet Forms
+# Form 82
 
 Collect unlimited form submissions from any HTML page and store them in a Google Sheet. No external portal, no monthly submission cap.
 
@@ -55,7 +55,7 @@ Services like Formspree collect form submissions on their servers and usually li
 
 #### Comparison: Sheet Forms vs Formspree
 
-| Feature | Sheet Forms | Formspree |
+| Feature | Form 82 | Formspree |
 |---|---|---|
 | Free submissions | Unlimited | About 50 per month (varies by plan) |
 | Where data is stored | Your Google Sheet | Formspree servers |
